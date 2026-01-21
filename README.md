@@ -4,7 +4,7 @@ GitHub Repo:
 https://github.com/dotslashgabut/immersive-audio-player-lyric-video-maker
 
 Netlify:
-https://immersive-audio-player.netlify.app
+https://immersiveaudioplayer.netlify.app
 
 Huggingface Space:
 https://hf.co/spaces/DotSlashGabut/lyric-video-maker
