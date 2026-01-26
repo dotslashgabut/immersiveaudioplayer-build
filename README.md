@@ -1,4 +1,4 @@
-## Immersive Audio Player & Lyric Video Maker v2.2.8-fix
+## Immersive Audio Player & Lyric Video Maker v2.2.9
 
 GitHub Repo:
 https://github.com/dotslashgabut/immersive-audio-player-lyric-video-maker
