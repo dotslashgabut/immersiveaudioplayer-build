@@ -1,4 +1,4 @@
-## Immersive Audio Player & Lyric Video Maker v2.3.7
+## Immersive Audio Player & Lyric Video Maker v2.3.11
 
 GitHub Repo:
 https://github.com/dotslashgabut/immersive-audio-player-lyric-video-maker
@@ -11,3 +11,6 @@ https://immersiveaudioplayer.vercel.app
 
 Netlify:
 https://immersiveaudioplayer.netlify.app
+
+Huggingface Space:
+https://huggingface.co/spaces/DotSlashGabut/lyric-video-maker
